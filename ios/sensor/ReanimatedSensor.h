@@ -1,7 +1,7 @@
 #if __has_include(<CoreMotion/CoreMotion.h>)
 #import <CoreMotion/CoreMotion.h>
 #endif
-#import <RNReanimated/ReanimatedSensorType.h>
+#import <RNReanimated3/ReanimatedSensorType.h>
 
 @interface ReanimatedSensor : NSObject {
   ReanimatedSensorType _sensorType;

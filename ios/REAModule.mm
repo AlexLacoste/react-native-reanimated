@@ -9,18 +9,18 @@
 #import <React/RCTSurfaceView.h>
 #endif
 
-#import <RNReanimated/NativeProxy.h>
+#import <RNReanimated3/NativeProxy.h>
 
 #ifdef RCT_NEW_ARCH_ENABLED
-#import <RNReanimated/NewestShadowNodesRegistry.h>
-#import <RNReanimated/REAInitializerRCTFabricSurface.h>
-#import <RNReanimated/ReanimatedUIManagerBinding.h>
+#import <RNReanimated3/NewestShadowNodesRegistry.h>
+#import <RNReanimated3/REAInitializerRCTFabricSurface.h>
+#import <RNReanimated3/ReanimatedUIManagerBinding.h>
 #endif
 
-#import <RNReanimated/REAModule.h>
-#import <RNReanimated/REANodesManager.h>
-#import <RNReanimated/ReanimatedVersion.h>
-#import <RNReanimated/SingleInstanceChecker.h>
+#import <RNReanimated3/REAModule.h>
+#import <RNReanimated3/REANodesManager.h>
+#import <RNReanimated3/ReanimatedVersion.h>
+#import <RNReanimated3/SingleInstanceChecker.h>
 
 using namespace facebook::react;
 using namespace reanimated;

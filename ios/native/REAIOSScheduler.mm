@@ -1,5 +1,5 @@
-#import <RNReanimated/REAIOSScheduler.h>
-#import <RNReanimated/RuntimeManager.h>
+#import <RNReanimated3/REAIOSScheduler.h>
+#import <RNReanimated3/RuntimeManager.h>
 
 namespace reanimated {
 

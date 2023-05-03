@@ -1,7 +1,7 @@
-#import <RNReanimated/REAAnimationsManager.h>
-#import <RNReanimated/REASharedElement.h>
-#import <RNReanimated/REASharedTransitionManager.h>
-#import <RNReanimated/REAUIManager.h>
+#import <RNReanimated3/REAAnimationsManager.h>
+#import <RNReanimated3/REASharedElement.h>
+#import <RNReanimated3/REASharedTransitionManager.h>
+#import <RNReanimated3/REAUIManager.h>
 #import <React/RCTComponentData.h>
 #import <React/RCTTextView.h>
 #import <React/UIView+Private.h>

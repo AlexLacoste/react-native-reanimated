@@ -1,4 +1,4 @@
-#import <RNReanimated/REAAnimationsManager.h>
+#import <RNReanimated3/REAAnimationsManager.h>
 #import <React/RCTBridge+Private.h>
 #import <React/RCTDefines.h>
 #import <React/RCTUIManager.h>

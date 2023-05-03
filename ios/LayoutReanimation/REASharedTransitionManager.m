@@ -1,7 +1,7 @@
-#import <RNReanimated/REAFrame.h>
-#import <RNReanimated/REAScreensHelper.h>
-#import <RNReanimated/REASharedElement.h>
-#import <RNReanimated/REASharedTransitionManager.h>
+#import <RNReanimated3/REAFrame.h>
+#import <RNReanimated3/REAScreensHelper.h>
+#import <RNReanimated3/REASharedElement.h>
+#import <RNReanimated3/REASharedTransitionManager.h>
 #import <objc/runtime.h>
 
 @implementation REASharedTransitionManager {

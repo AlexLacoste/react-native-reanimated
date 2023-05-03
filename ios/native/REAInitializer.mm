@@ -1,6 +1,6 @@
-#import <RNReanimated/REAInitializer.h>
-#import <RNReanimated/REAUIManager.h>
-#import <RNReanimated/ReanimatedVersion.h>
+#import <RNReanimated3/REAInitializer.h>
+#import <RNReanimated3/REAUIManager.h>
+#import <RNReanimated3/ReanimatedVersion.h>
 
 @interface RCTEventDispatcher (Reanimated)
 

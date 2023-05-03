@@ -1,4 +1,4 @@
-#import <RNReanimated/ReanimatedSensor.h>
+#import <RNReanimated3/ReanimatedSensor.h>
 
 #if __has_include(<CoreMotion/CoreMotion.h>)
 @implementation ReanimatedSensor

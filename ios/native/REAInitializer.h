@@ -1,7 +1,7 @@
 #import <Foundation/Foundation.h>
-#import <RNReanimated/NativeProxy.h>
-#import <RNReanimated/REAEventDispatcher.h>
-#import <RNReanimated/REAModule.h>
+#import <RNReanimated3/NativeProxy.h>
+#import <RNReanimated3/REAEventDispatcher.h>
+#import <RNReanimated3/REAModule.h>
 #import <React/RCTBridge+Private.h>
 #import <React/RCTCxxBridgeDelegate.h>
 #import <ReactCommon/RCTTurboModuleManager.h>

@@ -1,7 +1,7 @@
 #import <Foundation/Foundation.h>
-#import <RNReanimated/LayoutAnimationType.h>
-#import <RNReanimated/REANodesManager.h>
-#import <RNReanimated/REASnapshot.h>
+#import <RNReanimated3/LayoutAnimationType.h>
+#import <RNReanimated3/REANodesManager.h>
+#import <RNReanimated3/REASnapshot.h>
 #import <React/RCTUIManager.h>
 
 NS_ASSUME_NONNULL_BEGIN

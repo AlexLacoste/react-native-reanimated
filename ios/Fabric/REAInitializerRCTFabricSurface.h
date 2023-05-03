@@ -1,6 +1,6 @@
 #ifdef RCT_NEW_ARCH_ENABLED
 
-#import <RNReanimated/REAModule.h>
+#import <RNReanimated3/REAModule.h>
 #import <React/RCTFabricSurface.h>
 
 @interface REAInitializerRCTFabricSurface : RCTFabricSurface

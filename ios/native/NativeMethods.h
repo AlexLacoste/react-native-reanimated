@@ -1,5 +1,5 @@
 #import <Foundation/Foundation.h>
-#import <RNReanimated/RNGestureHandlerStateManager.h>
+#import <RNReanimated3/RNGestureHandlerStateManager.h>
 #import <React/RCTUIManager.h>
 #include <string>
 #include <utility>

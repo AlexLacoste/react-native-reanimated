@@ -1,5 +1,5 @@
-#import <RNReanimated/REAModule.h>
-#import <RNReanimated/REANodesManager.h>
+#import <RNReanimated3/REAModule.h>
+#import <RNReanimated3/REANodesManager.h>
 #import <React/RCTConvert.h>
 
 #ifdef RCT_NEW_ARCH_ENABLED

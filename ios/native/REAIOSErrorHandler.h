@@ -1,5 +1,5 @@
-#import <RNReanimated/ErrorHandler.h>
-#import <RNReanimated/Scheduler.h>
+#import <RNReanimated3/ErrorHandler.h>
+#import <RNReanimated3/Scheduler.h>
 #include <memory>
 #include <string>
 

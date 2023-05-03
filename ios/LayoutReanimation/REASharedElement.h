@@ -1,4 +1,4 @@
-#import <RNReanimated/REASnapshot.h>
+#import <RNReanimated3/REASnapshot.h>
 
 @interface REASharedElement : NSObject
 

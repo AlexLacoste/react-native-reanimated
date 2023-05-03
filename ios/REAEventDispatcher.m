@@ -1,4 +1,4 @@
-#import <RNReanimated/REAEventDispatcher.h>
+#import <RNReanimated3/REAEventDispatcher.h>
 #import <React/RCTBridge+Private.h>
 #import <React/RCTDefines.h>
 

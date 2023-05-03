@@ -4,7 +4,7 @@
 #include <string>
 
 #ifdef __APPLE__
-#include "RNReanimated/Scheduler.h"
+#include "RNReanimated3/Scheduler.h"
 #else
 #include "Scheduler.h"
 #endif

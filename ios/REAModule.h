@@ -1,6 +1,6 @@
 #ifdef RCT_NEW_ARCH_ENABLED
-#import <RNReanimated/NewestShadowNodesRegistry.h>
-#import <RNReanimated/ReanimatedUIManagerBinding.h>
+#import <RNReanimated3/NewestShadowNodesRegistry.h>
+#import <RNReanimated3/ReanimatedUIManagerBinding.h>
 #endif
 
 #import <React/RCTBridgeModule.h>
@@ -10,7 +10,7 @@
 #import <React/RCTUIManagerObserverCoordinator.h>
 #import <React/RCTUIManagerUtils.h>
 
-#import <RNReanimated/REANodesManager.h>
+#import <RNReanimated3/REANodesManager.h>
 
 @interface REAModule : RCTEventEmitter <RCTBridgeModule, RCTEventDispatcherObserver, RCTUIManagerObserver>
 

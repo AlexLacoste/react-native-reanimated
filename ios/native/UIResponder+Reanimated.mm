@@ -1,6 +1,6 @@
-#import <RNReanimated/REAInitializer.h>
-#import <RNReanimated/REAUIManager.h>
-#import <RNReanimated/UIResponder+Reanimated.h>
+#import <RNReanimated3/REAInitializer.h>
+#import <RNReanimated3/REAUIManager.h>
+#import <RNReanimated3/UIResponder+Reanimated.h>
 
 #if __has_include(<reacthermes/HermesExecutorFactory.h>)
 #import <reacthermes/HermesExecutorFactory.h>
