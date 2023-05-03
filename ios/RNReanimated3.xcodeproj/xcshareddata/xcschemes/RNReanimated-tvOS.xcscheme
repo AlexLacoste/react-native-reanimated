@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "FDBB176D229BF04900D1E455"
-               BuildableName = "libRNReanimated-tvOS.a"
-               BlueprintName = "RNReanimated-tvOS"
-               ReferencedContainer = "container:RNReanimated.xcodeproj">
+               BuildableName = "libRNReanimated3-tvOS.a"
+               BlueprintName = "RNReanimated3-tvOS"
+               ReferencedContainer = "container:RNReanimated3.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -29,8 +29,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </TestAction>
    <LaunchAction
       buildConfiguration = "Debug"
@@ -46,13 +44,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "FDBB176D229BF04900D1E455"
-            BuildableName = "libRNReanimated-tvOS.a"
-            BlueprintName = "RNReanimated-tvOS"
-            ReferencedContainer = "container:RNReanimated.xcodeproj">
+            BuildableName = "libRNReanimated3-tvOS.a"
+            BlueprintName = "RNReanimated3-tvOS"
+            ReferencedContainer = "container:RNReanimated3.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
@@ -64,9 +60,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "FDBB176D229BF04900D1E455"
-            BuildableName = "libRNReanimated-tvOS.a"
-            BlueprintName = "RNReanimated-tvOS"
-            ReferencedContainer = "container:RNReanimated.xcodeproj">
+            BuildableName = "libRNReanimated3-tvOS.a"
+            BlueprintName = "RNReanimated3-tvOS"
+            ReferencedContainer = "container:RNReanimated3.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>

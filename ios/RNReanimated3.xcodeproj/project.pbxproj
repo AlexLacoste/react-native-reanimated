@@ -85,7 +85,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		134814201AA4EA6300B7C361 /* libRNReanimated.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libRNReanimated.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		134814201AA4EA6300B7C361 /* libRNReanimated3.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libRNReanimated3.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		440FEC01209062F100EEC73A /* REANodesManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = REANodesManager.h; sourceTree = "<group>"; };
 		440FEC0A209062F100EEC73A /* REAModule.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = REAModule.h; sourceTree = "<group>"; };
 		440FEC0D209062F100EEC73A /* REAPropsNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = REAPropsNode.m; sourceTree = "<group>"; };
@@ -141,7 +141,7 @@
 		A12DA6BB22EC22E300E8271A /* REACallFuncNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = REACallFuncNode.h; sourceTree = "<group>"; };
 		A12DA6BC22EC22E300E8271A /* REACallFuncNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = REACallFuncNode.m; sourceTree = "<group>"; };
 		A12DA6BD22EC22E300E8271A /* REAFunctionNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = REAFunctionNode.h; sourceTree = "<group>"; };
-		FDBB176E229BF04900D1E455 /* libRNReanimated-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libRNReanimated-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FDBB176E229BF04900D1E455 /* libRNReanimated3-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libRNReanimated3-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -165,7 +165,7 @@
 		134814211AA4EA7D00B7C361 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				134814201AA4EA6300B7C361 /* libRNReanimated.a */,
+				134814201AA4EA6300B7C361 /* libRNReanimated3.a */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -245,16 +245,16 @@
 				440FEC01209062F100EEC73A /* REANodesManager.h */,
 				440FEC2B209062F100EEC73A /* REANodesManager.m */,
 				134814211AA4EA7D00B7C361 /* Products */,
-				FDBB176E229BF04900D1E455 /* libRNReanimated-tvOS.a */,
+				FDBB176E229BF04900D1E455 /* libRNReanimated3-tvOS.a */,
 			);
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		58B511DA1A9E6C8500147676 /* RNReanimated */ = {
+		58B511DA1A9E6C8500147676 /* RNReanimated3 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 58B511EF1A9E6C8500147676 /* Build configuration list for PBXNativeTarget "RNReanimated" */;
+			buildConfigurationList = 58B511EF1A9E6C8500147676 /* Build configuration list for PBXNativeTarget "RNReanimated3" */;
 			buildPhases = (
 				58B511D71A9E6C8500147676 /* Sources */,
 				58B511D81A9E6C8500147676 /* Frameworks */,
@@ -264,14 +264,14 @@
 			);
 			dependencies = (
 			);
-			name = RNReanimated;
+			name = RNReanimated3;
 			productName = RCTDataManager;
-			productReference = 134814201AA4EA6300B7C361 /* libRNReanimated.a */;
+			productReference = 134814201AA4EA6300B7C361 /* libRNReanimated3.a */;
 			productType = "com.apple.product-type.library.static";
 		};
-		FDBB176D229BF04900D1E455 /* RNReanimated-tvOS */ = {
+		FDBB176D229BF04900D1E455 /* RNReanimated3-tvOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = FDBB1774229BF04900D1E455 /* Build configuration list for PBXNativeTarget "RNReanimated-tvOS" */;
+			buildConfigurationList = FDBB1774229BF04900D1E455 /* Build configuration list for PBXNativeTarget "RNReanimated3-tvOS" */;
 			buildPhases = (
 				FDBB176A229BF04900D1E455 /* Sources */,
 				FDBB176B229BF04900D1E455 /* Frameworks */,
@@ -281,9 +281,9 @@
 			);
 			dependencies = (
 			);
-			name = "RNReanimated-tvOS";
+			name = "RNReanimated3-tvOS";
 			productName = "RNReanimated-tvOS";
-			productReference = FDBB176E229BF04900D1E455 /* libRNReanimated-tvOS.a */;
+			productReference = FDBB176E229BF04900D1E455 /* libRNReanimated3-tvOS.a */;
 			productType = "com.apple.product-type.library.static";
 		};
 /* End PBXNativeTarget section */
@@ -305,7 +305,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 58B511D61A9E6C8500147676 /* Build configuration list for PBXProject "RNReanimated" */;
+			buildConfigurationList = 58B511D61A9E6C8500147676 /* Build configuration list for PBXProject "RNReanimated3" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -318,8 +318,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				58B511DA1A9E6C8500147676 /* RNReanimated */,
-				FDBB176D229BF04900D1E455 /* RNReanimated-tvOS */,
+				58B511DA1A9E6C8500147676 /* RNReanimated3 */,
+				FDBB176D229BF04900D1E455 /* RNReanimated3-tvOS */,
 			);
 		};
 /* End PBXProject section */
@@ -500,7 +500,7 @@
 				);
 				LIBRARY_SEARCH_PATHS = "$(inherited)";
 				OTHER_LDFLAGS = "-ObjC";
-				PRODUCT_NAME = RNReanimated;
+				PRODUCT_NAME = RNReanimated3;
 				SKIP_INSTALL = YES;
 			};
 			name = Debug;
@@ -516,7 +516,7 @@
 				);
 				LIBRARY_SEARCH_PATHS = "$(inherited)";
 				OTHER_LDFLAGS = "-ObjC";
-				PRODUCT_NAME = RNReanimated;
+				PRODUCT_NAME = RNReanimated3;
 				SKIP_INSTALL = YES;
 			};
 			name = Release;
@@ -576,7 +576,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		58B511D61A9E6C8500147676 /* Build configuration list for PBXProject "RNReanimated" */ = {
+		58B511D61A9E6C8500147676 /* Build configuration list for PBXProject "RNReanimated3" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				58B511ED1A9E6C8500147676 /* Debug */,
@@ -585,7 +585,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		58B511EF1A9E6C8500147676 /* Build configuration list for PBXNativeTarget "RNReanimated" */ = {
+		58B511EF1A9E6C8500147676 /* Build configuration list for PBXNativeTarget "RNReanimated3" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				58B511F01A9E6C8500147676 /* Debug */,
@@ -594,7 +594,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		FDBB1774229BF04900D1E455 /* Build configuration list for PBXNativeTarget "RNReanimated-tvOS" */ = {
+		FDBB1774229BF04900D1E455 /* Build configuration list for PBXNativeTarget "RNReanimated3-tvOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				FDBB1775229BF04900D1E455 /* Debug */,
