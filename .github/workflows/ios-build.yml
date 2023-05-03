@@ -3,7 +3,7 @@ on:
   pull_request:
     paths:
       - .github/workflows/ios-build.yml
-      - RNReanimated.podspec
+      - RNReanimated3.podspec
       - scripts/reanimated_utils.rb
       - ios/**
       - Common/**
