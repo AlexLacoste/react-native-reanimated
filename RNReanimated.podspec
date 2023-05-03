@@ -18,7 +18,7 @@ version_flag = '-DREANIMATED_VERSION=' + reanimated_package_json["version"]
 
 Pod::Spec.new do |s|
   
-  s.name         = "RNReanimated"
+  s.name         = "RNReanimated3"
   s.version      = reanimated_package_json["version"]
   s.summary      = reanimated_package_json["description"]
   s.description  = <<-DESC

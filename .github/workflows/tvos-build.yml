@@ -3,7 +3,7 @@ on:
   pull_request:
     paths:
       - '.github/workflows/tvos-build.yml'
-      - 'RNReanimated.podspec'
+      - 'RNReanimated3.podspec'
       - 'ios/**'
       - 'Common/**'
       - 'TVOSExample/package.json'
